@@ -1,0 +1,18 @@
+Установленная версия SQLite — SQLite version 3.50.4 от 2025-07-30 19:33:53.
+
+Режимы ввода данных:
+ascii
+box
+csv
+column
+html
+insert
+json
+line
+list
+markdown
+qbox
+quote
+table
+tabs
+tcl
